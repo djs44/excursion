@@ -31,8 +31,15 @@ p.download {
   color: aquamarine;
   font-size: 16px;
   text-align: center;
+  text-decoration: underline;
 }
 
 p.video {
   text-align: center;
+}
+
+p.copyright {
+  color: gray;
+  text-align: right;
+  font-size: 21px;
 }
